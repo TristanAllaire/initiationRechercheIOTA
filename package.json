@@ -1,0 +1,20 @@
+{
+  "name": "initationrecherche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.27",
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "readline": "^1.3.0",
+    "zeromq": "^6.0.0-beta.6"
+  }
+}
